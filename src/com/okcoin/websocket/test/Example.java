@@ -17,9 +17,6 @@ public class Example {
 		// secretKey为用户申请的secretKey
 		String secretKey = "XXXXX";
 
-		apiKey = "a8e140b5-d36e-4e14-b745-f4d02b6299d8";
-		secretKey = "47325ADCC231D1F5F2047E4D155D1FD8";
-
 		// 国际站WebSocket地址 注意如果访问国内站 请将 real.okcoin.com 改为 real.okcoin.cn
 		String url = "wss://real.okex.com:10440/websocket/okexapi";
 
